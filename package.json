@@ -1,0 +1,22 @@
+{
+  "name": "salesranktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "console.log(\"here\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VieiraaGui/SalesRankTest.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VieiraaGui/SalesRankTest/issues"
+  },
+  "homepage": "https://github.com/VieiraaGui/SalesRankTest#readme"
+}
